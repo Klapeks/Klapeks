@@ -5,10 +5,10 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently not working
+- ☕ Java developer: Bukkit API, Spring MVC
+- 📱  TypeScript developer: NodeJS, React, Express, TelegramBot
 - 🌱 I’m currently learning TypeScript and Java
-- 👯 I’m looking to collaborate with someone
-- 📫 How to speak with me: https://discord.gg/TWEy37Frh2
+- 📫 Contact with me: https://discord.gg/TWEy37Frh2
 - 😄 Pronouns: Karaguts, Alexandr
 <!-- - ⚡ Fun fact: -->
 
